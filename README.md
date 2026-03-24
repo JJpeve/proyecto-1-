@@ -9,7 +9,7 @@ Empezando con la semana de informes N°1, tenemos la introducción a onshape.
 
 Importar imagen
 Después, crear la base:
-<img width="1898" height="876" alt="image" src="https://github.com/user-attachments/assets/d7e1ae85-ee16-412c-8f4f-d3a2c1d0507e" />
+<img width="1898" height="876" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2010.58.24%20AM.jpeg" />
 
 
 2. <img width="1902" height="864" alt="image" src="https://github.com/user-attachments/assets/52270126-1d77-49f8-af00-12a190497b24" />
