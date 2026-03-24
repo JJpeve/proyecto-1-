@@ -12,10 +12,10 @@ Después, crear la base:
 <img width="1898" height="876" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2010.58.24%20AM.jpeg" />
 
 
-2. <img width="1902" height="864" alt="image" src="https://github.com/user-attachments/assets/52270126-1d77-49f8-af00-12a190497b24" />
+2. <img width="1902" height="864" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2011.09.20%20AM.jpeg" />
 
 
-3. <img width="1914" height="916" alt="image" src="https://github.com/user-attachments/assets/474926eb-1960-4433-9e7d-412ac594a7c9" />
+3. <img width="1914" height="916" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2012.25.33%20PM.jpeg" />
 
 
-<img width="1913" height="857" alt="image" src="https://github.com/user-attachments/assets/3427fa85-e522-48c3-a447-962f93e1e5ef" />
+<img width="1913" height="857" alt="image" src="" />
