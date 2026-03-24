@@ -18,4 +18,4 @@ Después, crear la base:
 3. <img width="1914" height="916" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2012.25.33%20PM.jpeg" />
 
 
-<img width="1913" height="857" alt="image" src="" />
+<img width="1913" height="857" alt="image" src="https://github.com/JJpeve/proyecto-1-/blob/main/WhatsApp%20Image%202026-03-24%20at%2012.50.38%20PM.jpeg" />
